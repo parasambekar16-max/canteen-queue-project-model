@@ -1,0 +1,10 @@
+model,servers,lambda,rho,P_wait,Wq_min
+M/M/c avg rate,1,2.225,2.7209895833333335,1.0,inf
+M/M/c peak rate,1,3.6,4.4025,1.0,inf
+Simulation time-varying,1,varies,,0.9753409327181205,35.77476807349474
+M/M/c avg rate,2,2.225,1.3604947916666668,1.0,inf
+M/M/c peak rate,2,3.6,2.20125,1.0,inf
+Simulation time-varying,2,varies,,0.9122656216251355,10.121748140561204
+M/M/c avg rate,3,2.225,0.9069965277777778,0.8294562522968992,3.635548404691284
+M/M/c peak rate,3,3.6,1.4675,1.0,inf
+Simulation time-varying,3,varies,,0.7669391796601078,3.1878975164385235
